@@ -53,8 +53,8 @@ git diff origin/main
 git diff 1cfbf17 eede18c
 git diff --name-only
 git diff --color-words
-
-
+git commit -a -m "Skip staging area"
+git commit .\index.html -m "Skip staging area"
 
 
 
