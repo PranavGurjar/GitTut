@@ -47,8 +47,10 @@ git clone https://github.com/PranavGurjar/My-Project.git
 git clone https://github.com/PranavGurjar/My-Project.git .
 git clone --branch first https://github.com/PranavGurjar/My-Project.git
 git clone --branch first https://github.com/PranavGurjar/My-Project.git .
-
-
-
+git diff
+git diff --staged
+git diff origin/main
+git diff 1cfbf17 eede18c
+git diff --name-only
 
      
